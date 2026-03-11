@@ -5,7 +5,7 @@
  * 4 variantes disponibles : full, medium, small, logotype
  */
 
-import logoFull from 'figma:asset/1d42715fbc9d1264a6b8cdd3f1af43a32f996963.png';
+import logoFull from '@/assets/1d42715fbc9d1264a6b8cdd3f1af43a32f996963.png';
 
 interface FreshLogoProps {
   size?: number;
